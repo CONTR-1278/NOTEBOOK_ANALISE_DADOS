@@ -1,3 +1,13 @@
+# Folders
+RODADA*/
+images/
+
+# File
+text.txt
+banco_de_dados_cntr_1278.db
+Relatorio_Analise_Exploratoria_SOFTEX.docx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
